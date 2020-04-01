@@ -20,4 +20,4 @@ Manually generated Bill Of Materials from scanned schematic (first information r
 
 ### Original Gerbers
 
-Gerber files as found in second information release. Renders are by Advanced Circuits FreeDFM service.
+Gerber files as found in second information release. Renders are by Advanced Circuits FreeDFM service. *Note that gerbv 2.6A had problems rendering these files. Other viewer suggestions welcome.*
